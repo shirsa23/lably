@@ -1,5 +1,7 @@
 package com.xfactor.lably.entity;
 
+import javax.swing.plaf.synth.SynthScrollableTabButton;
+
 public class Lab {
 
     private String name;
@@ -32,5 +34,6 @@ public class Lab {
     public void setPincode(String pincode) {
         this.pincode = pincode;
     }
+    
 
 }

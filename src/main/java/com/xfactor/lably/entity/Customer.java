@@ -29,8 +29,7 @@ public class Customer {
     public void setGender(String gender) {
         this.gender = gender;
     }
-
-
-
+    
+ 
     
 }

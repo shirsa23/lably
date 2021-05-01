@@ -22,6 +22,7 @@ public class Tests {
     public void setPrice(Double price) {
         this.price = price;
     }
+    
 
 
 }
