@@ -1,6 +1,6 @@
 package com.xfactor.lably.entity;
 
-import javax.swing.plaf.synth.SynthScrollableTabButton;
+
 
 public class Lab {
 
